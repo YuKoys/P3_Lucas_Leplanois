@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T13:53:56.047Z" agent="5.0 (Windows)" etag="L3uKxnZvgmvfKtjUMFkf" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T13:55:27.975Z" agent="5.0 (Windows)" etag="wnCnW8nfqhmaHdhyvhzb" version="15.3.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,6 +79,9 @@
             <mxPoint x="540" y="192" as="targetPoint" />
             <mxPoint x="-40" y="32" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kpE0iFSW27qp6Ns2ZhAC-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kpE0iFSW27qp6Ns2ZhAC-9" target="zkfFHV4jXpPFQw0GAbJ--17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kpE0iFSW27qp6Ns2ZhAC-9" value="Tâche" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="410" width="240" height="210" as="geometry" />
