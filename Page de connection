@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T12:22:45.522Z" agent="5.0 (Windows)" etag="Bar0SFhMLm8Pt9nl4J7b" version="15.8.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-02T13:48:28.099Z" agent="5.0 (Windows)" etag="rbRjPazbwvO1fxfB2cuf" version="15.8.8" type="github" pages="5">
   <diagram id="0UAB439UrvkIAIWNiLFU" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -105,6 +105,9 @@
         <mxCell id="avv3_J5bfQfvJzv53qTn-9" value="Chat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T8rPd33FThQhkHIRr_Mw-1">
           <mxGeometry x="740" y="80" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RC8KcaekmDLpQbtyZfxR-1" value="Ajouter une personne, &lt;br&gt;consulter es messages " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T8rPd33FThQhkHIRr_Mw-1">
+          <mxGeometry x="990" y="480" width="150" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -122,10 +125,10 @@
         <mxCell id="coevtYESsG2S4zOhVycr-4" value="Calendrier" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="coevtYESsG2S4zOhVycr-1">
           <mxGeometry x="690" y="50" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="coevtYESsG2S4zOhVycr-6" value="Consulter son emploie du temps" style="ellipse;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="coevtYESsG2S4zOhVycr-1">
+        <mxCell id="coevtYESsG2S4zOhVycr-6" value="Consulter son emploi du temps" style="ellipse;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="coevtYESsG2S4zOhVycr-1">
           <mxGeometry x="500" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="coevtYESsG2S4zOhVycr-7" value="Modifier son emploie du temps" style="ellipse;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="coevtYESsG2S4zOhVycr-1">
+        <mxCell id="coevtYESsG2S4zOhVycr-7" value="Modifier son emploi du temps" style="ellipse;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="coevtYESsG2S4zOhVycr-1">
           <mxGeometry x="500" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="coevtYESsG2S4zOhVycr-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="coevtYESsG2S4zOhVycr-1" target="coevtYESsG2S4zOhVycr-7">
@@ -139,6 +142,9 @@
             <mxPoint x="270" y="290" as="sourcePoint" />
             <mxPoint x="320" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d-r-fRVQViX71MAhghFX-0" value="Ajouter supprimer des tâches " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="coevtYESsG2S4zOhVycr-1">
+          <mxGeometry x="940" y="305" width="200" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
