@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T12:22:22.852Z" agent="5.0 (Windows)" etag="eVu8rfuxWamjjgTH-JxR" version="15.8.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-02T12:22:45.522Z" agent="5.0 (Windows)" etag="Bar0SFhMLm8Pt9nl4J7b" version="15.8.8" type="github" pages="5">
   <diagram id="0UAB439UrvkIAIWNiLFU" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
           <mxGeometry x="340" y="50" width="480" height="590" as="geometry" />
         </mxCell>
         <mxCell id="deD2Nv-WHVYS5gowmZ20-0" value="Tableau de bord" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="la8YstPZsl4trsAfROCr-1">
-          <mxGeometry x="640" y="50" width="180" height="30" as="geometry" />
+          <mxGeometry x="680" y="50" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="deD2Nv-WHVYS5gowmZ20-1" value="&lt;div&gt;Visualiser les &lt;br&gt;&lt;/div&gt;&lt;div&gt;tâches à accomplir&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="la8YstPZsl4trsAfROCr-1">
           <mxGeometry x="520" y="120" width="120" height="80" as="geometry" />
